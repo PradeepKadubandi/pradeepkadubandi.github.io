@@ -1,7 +1,7 @@
 ---
 title: "Motion Planner augmented deep visuomotor Policy Learning"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2020-01-24-paper-demoplanner-number-1
 excerpt: 'My research work in RESL Lab @ USC. Preprint stage.'
 date: 2020-01-24
 venue: 'TBD'
