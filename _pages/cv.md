@@ -11,49 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Computer Science (Intelligent Robotics), University of Southern California, 2020
+* B.S. in Computer Science, National Institute of Technology, India, 2005
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan 2021 - Present: Principal Machine Learning Engineer
+  * Cognitiv
+  * Optimizing ad spend for enterprises.
+  * Deep learning, Operations Research.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feb 2008 - Aug 2018: Senior Software Engineer
+  * Microsoft (Redmond/India)
+  * 3 years building high scale distributed systems (Microsot Azure)
+  * 5 years building web frameworks and tools (Microsoft Asp.NET)
+  * 2 years building mobile developer tools (Visual Studio for Windows Phone) (India) 
+
+* Jun 2005 - Jan 2008: Applications Engineer
+  * Oracle India
+  * Oracle Pl/Sql, Forms, Java based web services.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+[Full CV](http://pradeepkadubandi.github.io/files/resume.pdf)
