@@ -1,10 +1,10 @@
 ---
-title: "Motion Planner augmented deep visuomotor Policy Learning"
+title: "Motion Planner Guided Visuomotor Policy Learning"
 collection: publications
 permalink: /publication/2020-01-24-paper-demoplanner-number-1
-excerpt: 'My research work in RESL Lab @ USC. Preprint stage.'
+excerpt: 'My research work in RESL Lab @ USC.'
 date: 2020-01-24
-venue: 'TBD'
+venue: 'MLMP @ ICRA'21'
 paperurl: 'http://pradeepkadubandi.github.io/files/demoplanner.pdf'
 citation: 'Will be updated mid 2021'
 ---
