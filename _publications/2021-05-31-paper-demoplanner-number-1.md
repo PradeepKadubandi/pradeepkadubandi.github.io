@@ -1,9 +1,9 @@
 ---
 title: "Motion Planner Guided Visuomotor Policy Learning"
 collection: publications
-permalink: /publication/2020-01-24-paper-demoplanner-number-1
+permalink: /publication/2021-05-31-paper-demoplanner-number-1
 excerpt: 'My research work in RESL Lab @ USC.'
-date: 2020-01-24
+date: 2021-05-31
 venue: 'MLMP at ICRA 2021'
 paperurl: 'http://pradeepkadubandi.github.io/files/demoplanner.pdf'
 citation: 'Will be updated mid 2021'
